@@ -28,4 +28,4 @@ print("Hello World")
 
 This is the next part.
 
-[//]: <> (This is also a comment.)
+[comment]: # (This is also a comment.)
