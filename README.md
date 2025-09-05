@@ -27,3 +27,5 @@ print("Hello World")
 <br/><br/> 
 
 This is the next part.
+
+[//]: <> (This is also a comment.)
