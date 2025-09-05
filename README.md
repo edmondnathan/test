@@ -1,2 +1,18 @@
-# test
-This is just a test.
+# How to Documnet
+
+```sql
+SELECT
+  customer_id,
+  customer_name,
+  city,
+  SUM(sales) AS total_sales
+FROM orders
+Where citty LIKE '%A'
+GROUP BY customer_id, customer_name, city
+```
+
+```python
+print("Hello World")
+```
+
+
