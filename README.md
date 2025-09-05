@@ -7,7 +7,7 @@ SELECT
   city,
   SUM(sales) AS total_sales
 FROM orders
-Where citty LIKE '%A'
+WHERE citty LIKE '%A'
 GROUP BY customer_id, customer_name, city
 ```
 
