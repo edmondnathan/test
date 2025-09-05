@@ -1,4 +1,4 @@
-# How to Documnet
+# How to Documnent
 
 ```sql
 SELECT
@@ -15,4 +15,5 @@ GROUP BY customer_id, customer_name, city
 print("Hello World")
 ```
 
-
+## This is how to add prictures
+![prict 1](https://github.com/edmondnathan/test/blob/main/Pictures/1.png)
